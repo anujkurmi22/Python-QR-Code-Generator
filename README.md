@@ -152,6 +152,8 @@ Python Developer | Computer Science Graduate
 
 GitHub: Add your GitHub profile link here.
 
+https://github.com/anujkurmi22
+
 ---
 
  If you find this project useful, don't forget to give it a star!1
